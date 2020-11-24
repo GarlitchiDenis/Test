@@ -25,3 +25,14 @@ public class Main {
         a.print();
     }
 }
+
+
+//Director: dir1
+//Director: temp
+//<<<<<file1>>>>>
+//<<<<<<file2
+//file3>>>>>>>
+//FisierMp3: file4
+//FisierSvg: file5
+
+
